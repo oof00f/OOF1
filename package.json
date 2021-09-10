@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.2",
+    "node.js": "^0.0.1-security",
+    "querystring": "^0.2.1"
+  },
+  "name": "oof1",
+  "version": "1.0.0",
+  "main": "index.js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oof00f/OOF1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oof00f/OOF1/issues"
+  },
+  "homepage": "https://github.com/oof00f/OOF1#readme",
+  "description": ""
+}
